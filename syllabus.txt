@@ -1,0 +1,29 @@
+This repository was created to practice all the data structures and algorithms lessons
+it's important to practice it, also I like it, all what you can do with DSA it's amazing. 
+
+Some of the topics I want to review are based in different courses, from my school and from the Internet
+Another ones were added by me to enrich the content.
+Let's check it out:
+
+OOP:
+1.- classes
+2.- class diagram
+3.- composition
+4.- inheritance
+5.- polymorphism
+6.- method overloading
+7.- abstraction
+
+DSA:
+1.- templates
+2.- recursion
+3.- search algorithms
+4.- sort algorithms
+5.- linked list
+6.- doubly linked list
+7.- queues
+8.- stacks
+9.- binary search tree
+10.- heap tree
+11.- graphs
+12.- hash tables
