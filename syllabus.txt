@@ -27,3 +27,7 @@ DSA:
 10.- heap tree
 11.- graphs
 12.- hash tables
+
+
+Additional to this syllabus I got enrolled in a series of courses from kaggle
+so I'll be able to learn the foundaments of data manipulation using python. 
